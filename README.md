@@ -1,4 +1,4 @@
-# EventflitSwift (eventflit-websocket-swift) (also works with Objective-C!)
+# EventflitSwift eventflit-websocket-swift (and Objective-C)
 
 ![Languages](https://img.shields.io/badge/languages-swift%20%7C%20objc-orange.svg)
 [![Platform](https://img.shields.io/cocoapods/p/EventflitSwift.svg?style=flat)](http://cocoadocs.org/docsets/EventflitSwift)
